@@ -12,9 +12,6 @@
       }
 }
 
-.status.hover {
-      background: #FAFAFA;
-}
 
 .status .admin {
     display: none;

@@ -9,6 +9,9 @@ gem 'sqlite3'
 gem 'execjs'
 gem 'therubyracer'
 
+gem "less-rails" 
+gem "twitter-bootstrap-rails"
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 

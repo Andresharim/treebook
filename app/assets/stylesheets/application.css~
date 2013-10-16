@@ -12,5 +12,5 @@
  *= require_tree .
  */
  body.statuses {
-    background: url(/assets/me.jpg) no-repeat;
+    background: url(/assets/d.jpg) no-repeat;
  }
